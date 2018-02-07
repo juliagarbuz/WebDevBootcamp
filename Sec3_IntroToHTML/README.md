@@ -15,7 +15,7 @@
 | 23 | [HTML Attributes](#html-attributes-lecture-23) |
 | 24 | Recreate Webpage Assignment ([rusty.html](/Sec3_IntroToHTML/rusty.html)) |
 | 25 | Recreate Webpage Assignment: SOLUTION |
-| - | GO TO [Section 4 - Intermediate HTML](/Sec4_IntermediateHTML/notes.md) |
+| - | GO TO [Section 4 - Intermediate HTML](/Sec4_IntermediateHTML/README.md) |
 
 ## HTML Basics _(Lecture 14)_:
 - **HTML** = "_hyper text markup language_"
@@ -158,4 +158,4 @@
     - use **relative paths** to link to other pages in same directory
 
 ## NEXT SECTION: Section 4 - Intermediate HTML
-GO TO [Section 4 - Intermediate HTML](/Sec4_IntermediateHTML/notes.md)
+GO TO [Section 4 - Intermediate HTML](/Sec4_IntermediateHTML/README.md)
